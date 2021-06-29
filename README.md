@@ -13,7 +13,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 ## Images
 
-![PCB top](Images/pcb_top.jpg)
+![PCB top](Images/pcb_top.png)
 
 ### JLCPCB
 
