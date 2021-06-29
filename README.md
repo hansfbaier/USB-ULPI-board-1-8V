@@ -1,4 +1,4 @@
-Pmod™ Compatible USB ULPI PHY
+USB ULPI PHY, compatible with the Waveshare USB3300 board pinout
 ===
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
@@ -19,4 +19,4 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 PCBs can be ordered fully-assembled (besides the pin header) from [JLCPCB](https://jlcpcb.com). Required files are
 [PmodUsbUlpi_cpl_jlc.csv](PmodUsbUlpi_cpl_jlc.csv), [PmodUsbUlpi_bom_jlc.csv](PmodUsbUlpi_cpl_jlc.csv) and
-[Gerber/PmodUsbUlpi.zip](Gerber/PmodUsbUlpi.zip).
+[Gerber/PmodUsbUlpi.zip](Gerber/UsbUlpi.zip).
