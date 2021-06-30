@@ -1,4 +1,5 @@
-USB ULPI PHY, compatible with the Waveshare USB3300 board pinout
+USB ULPI high speed PHY with 1.8V IO voltage
+and Waveshare USB3300 board pinout
 ===
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
