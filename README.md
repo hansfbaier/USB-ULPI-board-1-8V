@@ -14,7 +14,9 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 ## Images
 
-![PCB top](Images/pcb_top.png)
+![PCB design](Images/pcb_top.png)
+![PCB top](Images/render_top.png)
+![PCB top](Images/render_bottom.png)
 
 ### JLCPCB
 
