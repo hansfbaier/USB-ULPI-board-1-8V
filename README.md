@@ -23,3 +23,8 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 PCBs can be ordered fully-assembled (besides the pin header) from [JLCPCB](https://jlcpcb.com). Required files are
 [PmodUsbUlpi_cpl_jlc.csv](PmodUsbUlpi_cpl_jlc.csv), [PmodUsbUlpi_bom_jlc.csv](PmodUsbUlpi_cpl_jlc.csv) and
 [Gerber/PmodUsbUlpi.zip](Gerber/UsbUlpi.zip).
+
+## Status
+I am not sure the board works yet. I could not get it working on a couple of boards.
+The 3.3V Version it is also very board dependent, on some boards it would work,
+on others not, but I didn't test as many yet as with the 3.3V version.
